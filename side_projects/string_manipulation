@@ -1,0 +1,7 @@
+
+
+def strdup_every_other_char(s):
+    return s[::2]
+
+s = "house"
+new_string = print(strdup_every_other_char (s))
